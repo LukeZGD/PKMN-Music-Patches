@@ -1,3 +1,8 @@
+# HGSS Unofficial Update
+
+- This is a mirror of the patch
+- PokeCommunity post here - https://www.pokecommunity.com/showthread.php?p=9899164#post9899164
+
 Since no one is updating this anymore, I might as well do that. -LukeeGD
 
 Here's HGSS Music Patch "Unofficial" Update

@@ -3,6 +3,7 @@
 ### Music Patches for Gen 3 Pokemon games
 
 Here are the patches in this repo:
+- All Instrument Patch - https://www.pokecommunity.com/showthread.php?t=332272
 - HGSS Music Patch (Old) - https://www.pokecommunity.com/showthread.php?t=308411
 - HGSS Kanto Reloaded - https://www.pokecommunity.com/showthread.php?t=342914
 - HGSS Music Patch Unofficial Update - https://www.pokecommunity.com/showthread.php?p=9899164#post9899164
